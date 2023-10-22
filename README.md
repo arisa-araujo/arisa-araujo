@@ -1,12 +1,44 @@
-<h1 align="center">Olá 👋 Seja bem vindo!</h1>
-<h3 align="center">Meu nome é Arisa e sou estudante de Análise e Desenvolvimento de Sistema!</h3>
+<h2 align="left">Olá 👋 Seja bem vindo!</h2>
 
-- 📫 Email: **arisaams@gmail.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arisa-araujo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arisa-araujo" height="30" width="40" /></a>
-</p>
+<p align="left">Meu nome é Arisa Araújo, e sou estudante de Análise e Desenvolvimento de Sistemas 💻</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
+
+<h3 align="left">Sobre mim</h3>
+
+###
+
+<p align="left">💻 Apaixonada por tecnologia<br>✨ Criando bugs desde 2021<br>📚 Atualmente estou estudando para  me tornar Desenvolvedora Backend.</p>
+
+###
+
+<h3 align="left">Tenho conhecimento em...</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
+
+###
+
+<h3 align="left">Entre em contato comigo:</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/arisa-araujo/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:arisaams@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
