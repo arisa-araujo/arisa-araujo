@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">Meu nome é Arisa Araújo, e sou estudante de Análise e Desenvolvimento de Sistemas 💻</p>
-
-###
-
 <h3 align="left">Sobre mim</h3>
 
 ###
 
-<p align="left">💻 Apaixonada por tecnologia<br>✨ Criando bugs desde 2021<br>📚 Atualmente estou estudando para  me tornar Desenvolvedora Backend.</p>
+<p align="left">Meu nome é Arisa Araújo!</p>
+
+###
+
+<p align="left">💻 Estudante de Análise e Desenvolvimento de Sistemas  - Previsão de formatura: Setembro/2024.<br>👩🏻‍💻 Atualmente, estou buscando uma vaga de Estágio como Desenvolvedora Backend<br>💬 Entre em contato: arisaams@gmail.com</p>
 
 ###
 
